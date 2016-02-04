@@ -1,1 +1,5 @@
-Teste - Start gitHub Acont
+<?php
+
+echo "Test";
+
+?>
